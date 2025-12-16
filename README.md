@@ -18,7 +18,7 @@ A simple, modern, and type-safe Swift wrapper for iOS/macOS Keychain Services. S
 Add SwiftKeychainKit to your `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/your-org/SwiftKeychainKit.git", from: "1.0.0")
+.package(url: "https://github.com/mtruszko/SwiftKeychainKit.git", from: "1.0.0")
 ```
 
 Or in Xcode: File → Add Packages → Enter the repository URL
